@@ -1,0 +1,101 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(224, 208, 238);
+}
+
+.conteiner{
+    max-width: 1100px;
+    background-color: rgb(157, 147, 175);
+    padding: 40px;
+    position: relative;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.imagem-destaque{
+    text-align: center;
+
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.biography{
+    background-color: #0002;
+    padding: 13px;
+    border-radius: 12px;
+    color: #ddd;
+    margin-bottom: 40px;
+    border-bottom: 4px solid #0002;
+}
+
+h2{
+    color: black;
+}
+
+.container-citacao{
+    background-color: #0003;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 110px;
+
+}
+
+.citacao-bold{
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 3px dashed #0002;
+}
+
+p{
+    font-style: italic;
+}
+
+.curiosidades{
+    font-size: 30px;
+    border: 10px dashed #0003;
+    letter-spacing: 5px;
+    margin-bottom: 110px;
+}
+
+li{
+    padding: 6px;
+}
+
+.time-7{
+    text-align: center;
+    background-color: #0001;
+    padding: 45px;
+    border-radius: 60px;
+}
+
+.time-7 p{
+    margin: 0px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.mais-sobre{
+    padding: 16px;
+    text-align: right;
+}
+
+.imagem-destaque img{
+    width: 420px;
+    border-radius: 20px;
+}
+
+.time-7 img{
+    width: 700px;
+    border-radius: 18px;
+    filter: drop-shadow(0 0 0.75rem rgb(53, 53, 53));
+}
+
+
